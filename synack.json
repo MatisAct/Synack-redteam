@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/MatisAct/Synack-redteam/master/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/MatisAct/Synack-redteam/master/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
