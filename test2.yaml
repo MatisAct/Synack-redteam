@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <a href="https://g4mjbs7o.x1.pe/login.php">Login</a>
+    <a href="javascript:alert(origin)">Login</a>
   version: production
 basePath: /JSSResource/
 produces:
